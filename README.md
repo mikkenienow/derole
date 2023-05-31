@@ -36,13 +36,18 @@ O DeRole representa um avanço significativo na forma como os eventos sociais s�
 </br>
 </br>
 
-## Todas as [imagens](https://github.com/mikkenienow/derole/tree/main/imgs).
+> ## Todas as [imagens](https://github.com/mikkenienow/derole/tree/main/imgs).
 
-## Pré-requisitos
+> ## Pré-requisitos </br>
 > Antes de executar o Gestão Pet, certifique-se de ter os seguintes requisitos instalados em seu ambiente de desenvolvimento:
 > </br></br>
-> **Java Development Kit (JDK)**: versão 20 ou superior </br>
-> **MYSQL**: versão 8 ou superior </br>
-> **Apache NetBeans IDE**: versão 16 ou superior
+> Java Development Kit (JDK): **versão 20 ou superior** </br>
+> MYSQL: **versão 8 ou superior** </br>
+> Apache NetBeans IDE: **versão 16 ou superior**
 
-Equipe: Mikke Nienow, Rodrigo Stolf, Mikaelle Wallburge Westphal e André Henrique da Cunha.
+> ## Desenvolvimento  </br>
+> Levantamento **Mikke Nienow, Rodrigo Stolf, Mikaelle Wallburge Westphal**
+> Backend: **Mikke Nienow e Rodrigo Stolf**
+> UI/UX Design: **Mikke Nienow**
+> QA: **Mikaelle Wallburge Westphal e Rodrigo Stolf**
+> Conceito de logo: **André Henrique da Cunha**
