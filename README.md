@@ -1,3 +1,4 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Desenvolvido&color=GREEN&style=for-the-badge)
 # DeRolê
 O DeRole é um projeto desenvolvido no âmbito do curso Técnico de Desenvolvimento de Software no CEDUP - Timbó. O seu propósito é fornecer aos usuários uma plataforma robusta para o cadastro e registro de eventos sociais entre amigos, englobando festas, churrascos, viagens, jantares ou jogos esportivos. O diferencial do DeRole está na sua capacidade de simplificar o controle de custos e a divisão de despesas entre os participantes desses eventos, conferindo uma experiência mais eficiente e transparente.
 
