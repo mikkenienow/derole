@@ -9,29 +9,29 @@ O DeRole representa um avanço significativo na forma como os eventos sociais s�
 
 ## Funcionalidades
 > ### Cadastro de Usuário
-> Os usuários podem se cadastrar na plataforma, fornecendo informações básicas, como nome, e-mail e senha. </br>
-> <img src="https://github.com/mikkenienow/derole/blob/main/imgs/03.png" width="500px" title="">
+> Os usuários podem se cadastrar na plataforma, fornecendo informações básicas, como nome, e-mail e senha. </br></br>
+> <img src="https://github.com/mikkenienow/derole/blob/main/imgs/03.png" width="300px" title="">
 > <p align="left"> Clique para ampliar<p>
 </br>
 </br>
 
 > ### Criação de Eventos
-> Os usuários têm a capacidade de criar eventos, fornecendo detalhes como o nome do evento, data, local e descrição. Cada evento pode ter uma lista de participantes. </br>
-> <img src="https://github.com/mikkenienow/derole/blob/main/imgs/05.png" width="500px" title="">
+> Os usuários têm a capacidade de criar eventos, fornecendo detalhes como o nome do evento, data, local e descrição. Cada evento pode ter uma lista de participantes. </br></br>
+> <img src="https://github.com/mikkenienow/derole/blob/main/imgs/05.png" width="300px" title="">
 > <p align="left"> Clique para ampliar<p>
 </br>
 </br>
 
 > ### Divisão de Custos
-> Durante a criação de um evento, o organizador pode adicionar itens que compõem os custos do evento, como comida, bebida, ingressos, etc. Além disso, o organizador pode especificar quais participantes são responsáveis por cada item. Por exemplo, em um churrasco, os custos da carne bovina podem ser divididos apenas entre aqueles que consomem carne bovina, enquanto no churrasco vegano, apenas os participantes que não consomem carne animal são responsáveis pelos custos relacionados a produtos veganos. </br>
-> <img src="https://github.com/mikkenienow/derole/blob/main/imgs/08.png" width="500px" title="">
+> Durante a criação de um evento, o organizador pode adicionar itens que compõem os custos do evento, como comida, bebida, ingressos, etc. Além disso, o organizador pode especificar quais participantes são responsáveis por cada item. Por exemplo, em um churrasco, os custos da carne bovina podem ser divididos apenas entre aqueles que consomem carne bovina, enquanto no churrasco vegano, apenas os participantes que não consomem carne animal são responsáveis pelos custos relacionados a produtos veganos. </br></br>
+> <img src="https://github.com/mikkenienow/derole/blob/main/imgs/08.png" width="300px" title="">
 > <p align="left"> Clique para ampliar<p>
 </br>
 </br>
 
 > ### Resumo dos Valores
-> Ao final de cada evento, os participantes têm acesso a um resumo dos valores totais e dos valores aos quais eles devem contribuir proporcionalmente. Isso permite que cada participante visualize sua parcela nos custos do evento. </br>
-> <img src="https://github.com/mikkenienow/derole/blob/main/imgs/10.png" width="500px" title="">
+> Ao final de cada evento, os participantes têm acesso a um resumo dos valores totais e dos valores aos quais eles devem contribuir proporcionalmente. Isso permite que cada participante visualize sua parcela nos custos do evento. </br></br>
+> <img src="https://github.com/mikkenienow/derole/blob/main/imgs/10.png" width="300px" title="">
 > <p align="left"> Clique para ampliar<p>
 </br>
 </br>
