@@ -1,4 +1,4 @@
-# Gestão Pet
+# DeRolê
 O DeRole é um projeto desenvolvido no âmbito do curso Técnico de Desenvolvimento de Software no CEDUP - Timbó. O seu propósito é fornecer aos usuários uma plataforma robusta para o cadastro e registro de eventos sociais entre amigos, englobando festas, churrascos, viagens, jantares ou jogos esportivos. O diferencial do DeRole está na sua capacidade de simplificar o controle de custos e a divisão de despesas entre os participantes desses eventos, conferindo uma experiência mais eficiente e transparente.
 
 Ao utilizar o DeRole, os usuários terão acesso a recursos avançados que lhes permitirão gerenciar todos os aspectos financeiros dos eventos de forma precisa. A plataforma oferece funcionalidades que possibilitam o cadastro detalhado de despesas individuais e coletivas, cálculos automáticos de divisão de custos, além de uma visão geral das finanças do evento em tempo real.
@@ -35,3 +35,14 @@ O DeRole representa um avanço significativo na forma como os eventos sociais s�
 > <p align="left"> Clique para ampliar<p>
 </br>
 </br>
+
+## Todas as [imagens](https://github.com/mikkenienow/derole/tree/main/imgs).
+
+## Pré-requisitos
+> Antes de executar o Gestão Pet, certifique-se de ter os seguintes requisitos instalados em seu ambiente de desenvolvimento:
+> </br></br>
+> **Java Development Kit (JDK)**: versão 20 ou superior </br>
+> **MYSQL**: versão 8 ou superior </br>
+> **Apache NetBeans IDE**: versão 16 ou superior
+
+Equipe: Mikke Nienow, Rodrigo Stolf, Mikaelle Wallburge Westphal e André Henrique da Cunha.
