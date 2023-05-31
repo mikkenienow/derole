@@ -46,8 +46,8 @@ O DeRole representa um avanço significativo na forma como os eventos sociais s�
 > Apache NetBeans IDE: **versão 16 ou superior**
 
 > ## Desenvolvimento  </br>
-> Levantamento **Mikke Nienow, Rodrigo Stolf, Mikaelle Wallburge Westphal**
-> Backend: **Mikke Nienow e Rodrigo Stolf**
-> UI/UX Design: **Mikke Nienow**
-> QA: **Mikaelle Wallburge Westphal e Rodrigo Stolf**
-> Conceito de logo: **André Henrique da Cunha**
+> Levantamento **Mikke Nienow, Rodrigo Stolf, Mikaelle Wallburge Westphal** </br>
+> Backend: **Mikke Nienow e Rodrigo Stolf**</br>
+> UI/UX Design: **Mikke Nienow**</br>
+> QA: **Mikaelle Wallburge Westphal e Rodrigo Stolf**</br>
+> Conceito de logo: **André Henrique da Cunha**</br>
